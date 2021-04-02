@@ -1,3 +1,9 @@
+# Description
+
+Custom hook is used to share logic between components.
+A parameter can be passed to it if required.
+The state used inside the custom hooks does not share data with the components.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
